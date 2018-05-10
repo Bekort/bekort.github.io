@@ -6,3 +6,11 @@
  2. В личном репозитории отредактировать файл readme.md.
  3. Добавить ссылку на личную страницу в списке группы с использованием fork.
  4. Разработать требуемую UML-диаграмму, разместить в формате wiki, как иллюстрацию к тексту.
+ 
+Здесь находятся ссылки на:
+<li><a href = "https://github.com/Bekort"> Личную страницу </a></br>
+<li><a href = "https://github.com/Bekort/bekmarentol"> Мой депозиторий </a></br>
+<li><a href = "https://github.com/Bekort/bekmarentol/wiki"> Wiki страницу </a></br>
+
+
+ 
